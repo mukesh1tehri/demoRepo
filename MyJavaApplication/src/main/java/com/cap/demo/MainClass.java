@@ -12,4 +12,6 @@ public class MainClass {
 	public static void greetings(){
 		System.out.println("Welcome to GIT Repository");
 	}
+	
+	//just for commit purpose
 }
